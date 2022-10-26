@@ -15,12 +15,12 @@ public class ErnährungsplanT {
     /**
      * 
      */
-    public String name;
+    private String name;
 
     /**
      * 
      */
-    public ArrayList<Rezept> rezepte;
+    private ArrayList<Rezept> rezepte;
 
     /**
      * 

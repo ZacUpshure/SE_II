@@ -15,12 +15,12 @@ public class Benachrichtigung {
     /**
      * 
      */
-    public String nachricht;
+    private String nachricht;
 
     /**
      * 
      */
-    public PersonT empfänger;
+    private PersonT empfänger;
 
     /**
      * 

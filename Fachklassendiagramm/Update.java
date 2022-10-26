@@ -15,12 +15,12 @@ public class Update {
     /**
      * 
      */
-    public Date datum;
+    private Date datum;
 
     /**
      * 
      */
-    public int id;
+    private int id;
 
     /**
      * 

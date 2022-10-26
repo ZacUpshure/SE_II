@@ -15,7 +15,7 @@ public class RezeptManager {
     /**
      * 
      */
-    public ArrayList<Rezept> rezeptliste;
+    private ArrayList<Rezept> rezeptliste;
 
     /**
      * 

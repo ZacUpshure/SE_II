@@ -15,12 +15,12 @@ public class AccountManager {
     /**
      * 
      */
-    public ArrayList<Benutzer> benutzer;
+    private ArrayList<Benutzer> benutzer;
 
     /**
      * 
      */
-    public Kühlschrank kühlschrank;
+    private Kühlschrank kühlschrank;
 
     /**
      * 

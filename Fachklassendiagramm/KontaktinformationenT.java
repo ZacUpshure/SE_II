@@ -15,27 +15,27 @@ public class KontaktinformationenT {
     /**
      * 
      */
-    public String straße;
+    private String straße;
 
     /**
      * 
      */
-    public String hausnummer;
+    private String hausnummer;
 
     /**
      * 
      */
-    public int plz;
+    private int plz;
 
     /**
      * 
      */
-    public String ort;
+    private String ort;
 
     /**
      * 
      */
-    public String email;
+    private String email;
 
     /**
      * 

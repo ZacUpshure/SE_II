@@ -15,42 +15,42 @@ public class Rezept {
     /**
      * 
      */
-    public Kühlschrank kühlschrank;
+    private Kühlschrank kühlschrank;
 
     /**
      * 
      */
-    public String name;
+    private String name;
 
     /**
      * 
      */
-    public String beschreibung;
+    private String beschreibung;
 
     /**
      * 
      */
-    public Nahrungsmittel lebensmittel;
+    private Nahrungsmittel lebensmittel;
 
     /**
      * 
      */
-    public ArrayList<Nahrungsmittel> zutatenliste;    //ArrayList<Lebensmittel>
+    private ArrayList<Nahrungsmittel> zutatenliste;    //ArrayList<Lebensmittel>
 
     /**
      * 
      */
-    public String bild;
+    private String bild;
 
     /**
      * 
      */
-    public double bewertung;
+    private double bewertung;
 
     /**
      * 
      */
-    public ArrayList<String> tags;
+    private ArrayList<String> tags;
 
     /**
      * 

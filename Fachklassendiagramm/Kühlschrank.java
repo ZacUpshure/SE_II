@@ -15,27 +15,27 @@ public class Kühlschrank {
     /**
      * 
      */
-    public String modell;
+    private String modell;
 
     /**
      * 
      */
-    public String version;
+    private String version;
 
     /**
      * 
      */
-    public AccountManager accountmanager;
+    private AccountManager accountmanager;
 
     /**
      * 
      */
-    public EinkaufManager einkaufsmanager;
+    private EinkaufManager einkaufsmanager;
 
     /**
      * 
      */
-    public Bestandscontroler nahrungsmittelmanager;
+    private Bestandscontroler nahrungsmittelmanager;
 
     /**
      * 
@@ -45,22 +45,22 @@ public class Kühlschrank {
     /**
      * 
      */
-    public ErnährungsplanManager ernährungsplanmanager;
+    private ErnährungsplanManager ernährungsplanmanager;
 
     /**
      * 
      */
-    public RezeptManager rezeptmanager;
+    private RezeptManager rezeptmanager;
 
     /**
      * 
      */
-    public int temperatur;
+    private int temperatur;
 
     /**
      * 
      */
-    public boolean offen;
+    private boolean offen;
 
     /**
      * 
@@ -85,7 +85,7 @@ public class Kühlschrank {
     /**
      * 
      */
-    public ArrayList<Nahrungsmittel> bestand;
+    private ArrayList<Nahrungsmittel> bestand;
 
     /**
      * 

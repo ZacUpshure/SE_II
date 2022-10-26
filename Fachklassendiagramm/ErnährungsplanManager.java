@@ -15,17 +15,17 @@ public class ErnährungsplanManager {
     /**
      * 
      */
-    public ArrayList<ErnährungsplanT> ernährungsplanliste;
+    private ArrayList<ErnährungsplanT> ernährungsplanliste;
 
     /**
      * 
      */
-    public Kühlschrank kühlschrank;
+    private Kühlschrank kühlschrank;
 
     /**
      * 
      */
-    public boolean angelegt;
+    private boolean angelegt;
 
     /**
      * 

@@ -15,12 +15,12 @@ public class EinkaufManager {
     /**
      * 
      */
-    public ArrayList<Nahrungsmittel> einkaufsliste;
+    private ArrayList<Nahrungsmittel> einkaufsliste;
 
     /**
      * 
      */
-    public Kühlschrank kühlschrank;
+    private Kühlschrank kühlschrank;
 
     /**
      * 

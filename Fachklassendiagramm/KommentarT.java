@@ -15,11 +15,11 @@ public class KommentarT {
     /**
      * 
      */
-    public Benutzer Autor;
+    private Benutzer Autor;
 
     /**
      * 
      */
-    public String Kommentar;
+    private String Kommentar;
 
 }

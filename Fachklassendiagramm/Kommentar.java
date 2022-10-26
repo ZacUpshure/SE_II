@@ -15,11 +15,11 @@ public class Kommentar {
     /**
      * 
      */
-    public String inhalt;
+    private String inhalt;
 
     /**
      * 
      */
-    public String datum;
+    private String datum;
 
 }

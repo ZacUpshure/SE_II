@@ -15,17 +15,17 @@ public class Bestandscontroler {
     /**
      * 
      */
-    public ArrayList<Nahrungsmittel> bestand;
+    private ArrayList<Nahrungsmittel> bestand;
 
     /**
      * 
      */
-    public int bestandszahl;
+    private int bestandszahl;
 
     /**
      * 
      */
-    public Kühlschrank kühlschrank;
+    private Kühlschrank kühlschrank;
 
     /**
      * 

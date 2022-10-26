@@ -15,11 +15,11 @@ public class BewertungT {
     /**
      * 
      */
-    public Number bewertung;
+    private Number bewertung;
 
     /**
      * 
      */
-    public Benutzer autor;
+    private Benutzer autor;
 
 }

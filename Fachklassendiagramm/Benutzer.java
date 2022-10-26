@@ -32,7 +32,7 @@ public class Benutzer {
     /**
      * 
      */
-    public String passwort;
+    private String passwort;
 
     /**
      * 
@@ -47,12 +47,12 @@ public class Benutzer {
     /**
      * 
      */
-    public String registrierungsdatum;
+    private String registrierungsdatum;
 
     /**
      * 
      */
-    public PersonT personDaten;
+    private PersonT personDaten;
 
     /**
      * 
@@ -62,17 +62,17 @@ public class Benutzer {
     /**
      * 
      */
-    public String letzteAnmeldung;
+    private String letzteAnmeldung;
 
     /**
      * 
      */
-    public String status;
+    private String status;
 
     /**
      * 
      */
-    public String anzeigename;
+    private String anzeigename;
 
     /**
      * 

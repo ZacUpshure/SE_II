@@ -23,11 +23,11 @@ public class BildT {
      * 
      */
     //public list-of-Number auflösung;    //?
-    public ArrayList<Number> auflösung;
+    private ArrayList<Number> auflösung;
     /**
      * 
      */
-    public ArrayList<Number> pixel;
+    private ArrayList<Number> pixel;
 
     /**
      * 

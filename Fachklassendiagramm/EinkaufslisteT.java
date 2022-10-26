@@ -15,7 +15,7 @@ public class EinkaufslisteT {
     /**
      * 
      */
-    public String name;
+    private String name;
 
     /**
      * 

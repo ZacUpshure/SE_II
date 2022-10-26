@@ -15,17 +15,17 @@ public class Ernährungsplan {
     /**
      * 
      */
-    public ArrayList<Rezept> rezeptliste;  //?
+    private ArrayList<Rezept> rezeptliste;  //?
 
     /**
      * 
      */
-    public String name;
+    private String name;
 
     /**
      * 
      */
-    public Date erstellungsdatum;
+    private Date erstellungsdatum;
 
     /**
      * 

@@ -15,57 +15,57 @@ public class Nahrungsmittel {
     /**
      * 
      */
-    public String name;
+    private String name;
 
     /**
      * 
      */
-    public ArrayList<String> nährwerte;
+    private ArrayList<String> nährwerte;
 
     /**
      * 
      */
-    public int anzahl;
+    private int anzahl;
 
     /**
      * 
      */
-    public String mhd;
+    private String mhd;
 
     /**
      * 
      */
-    public Date öffnungsdatum;
+    private Date öffnungsdatum;
 
     /**
      * 
      */
-    public String bild;
+    private String bild;
 
     /**
      * 
      */
-    public boolean verfügbarkeit;
+    private boolean verfügbarkeit;
 
     /**
      * 
      */
-    public String sektion;
+    private String sektion;
 
     /**
      * 
      */
-    public double preis;
+    private double preis;
 
     /**
      * 
      */
-    public double gewicht;
+    private double gewicht;
 
     /**
      * 
      */
-    public int häufigkeit;
+    private int häufigkeit;
 
     /**
      * 

@@ -15,22 +15,22 @@ public class PersonT {
     /**
      * 
      */
-    public String name;
+    private String name;
 
     /**
      * 
      */
-    public String vorname;
+    private String vorname;
 
     /**
      * 
      */
-    public String geburtsjahr;
+    private String geburtsjahr;
 
     /**
      * 
      */
-    public char geschlecht;
+    private char geschlecht;
 
     /**
      * 
