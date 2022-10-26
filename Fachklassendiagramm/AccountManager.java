@@ -5,7 +5,7 @@ import java.util.*;
  * 
  */
 public class AccountManager {
-
+    // turned all strings to Strings
     /**
      * Default constructor
      */
